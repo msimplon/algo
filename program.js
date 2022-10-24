@@ -5,6 +5,7 @@ const array = string.split(",");
 console.log(array);
 
 const numbers = []; //destination
+
 for (let i = 0; i < array.lenght; i++) { //loop code block
     const candidate = array[i]; //type string
     //objective: convert candidate into number

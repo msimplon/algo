@@ -2,8 +2,8 @@ const string = process.argv[2];
 console.log(string);
 
 
-const numbers = [];
-
+const numbers = string.split(",");
+//parse
 let sum = 0;
 
 for (let i = 0; i < numbers.length; i++) {

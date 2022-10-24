@@ -1,7 +1,6 @@
 const string = process.argv[2];
 console.log(string);
 
-
 const numbers = [];
 
 let tmp = "";
@@ -20,7 +19,6 @@ numbers.push(tmp);
 console.log(numbers);
 
 
-
 // PSEUDO CODE :
 
 // IN string of TEXT
@@ -35,3 +33,8 @@ console.log(numbers);
 // tmp = ""
 // ADD tmp INTO numbers
 // OUT numbers
+
+
+
+
+
