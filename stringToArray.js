@@ -37,4 +37,17 @@ console.log(numbers);
 
 
 
+// IN numbers[] of NUMBERS
+// let sameNumber = 0
+// Let value = 0
+
+// FOR(let i = 0; i < arr.length; i++) {
+//     FOR(let j = i + 1; j < arr.lenght; j++) {
+//         if (arr[i] == arr[j]) {
+//             sameNumber++
+//             value = arr[i]
+//         }
+//         if (arr[i] == arr[j]) &&
+//     }
+// }
 
