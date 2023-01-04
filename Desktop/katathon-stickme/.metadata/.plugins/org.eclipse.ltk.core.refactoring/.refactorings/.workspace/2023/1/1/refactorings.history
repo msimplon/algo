@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 3 resources" deleteContents="false" description="Delete 3 resources" element1="/Katathon-stickme-API/HELP.md" element2="/Katathon-stickme-API/mvnw" element3="/Katathon-stickme-API/mvnw.cmd" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="3" stamp="1672827826820"/>
+</session>
